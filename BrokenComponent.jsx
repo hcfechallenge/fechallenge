@@ -3,7 +3,6 @@ import { string, object, func } from 'prop-types';
 
 const PropTypes = {
   email: string,
-  theme: object,
   handleSubmit: func.isRequired,
   apiError: string
 };
