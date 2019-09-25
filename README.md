@@ -9,7 +9,9 @@ of your stylistic choices :)
 ## The app
 
 This app was made with [Create React App](https://github.com/facebook/create-react-app) to provide
-a fast, simple bootstrapped app to work in. After cloning the source code from this repo,
+a fast, simple bootstrapped app to work in. First, please **fork** this repository so that you have a copy in your own
+Github account.  Then clone the source code from the forked repo.  You'll later push commits to the forked version
+and share that version with us.
 
 Install the dependencies
 ```
@@ -47,7 +49,7 @@ To populate the page, mock data has been provided in a JSON object located at [s
 
 ## Level of effort and finishing steps
 
-This exercise is designed to take between 2 - 4 hours of time.  You'll submit your work to this repo,
-so please commit your code and push it up when you're finished.  Reaching out to the
-person who sent you this exercise via email will let us know that your code is ready to review.
+This exercise is designed to take between 2 - 4 hours of time.  You'll submit your work to the version of
+this repo that you forked, so please commit your code and push it up when you're finished.  Reaching out to the
+person who sent you this exercise via email with a link to the forked repo will let us know that your code is ready to review.
 
